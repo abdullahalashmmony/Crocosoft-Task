@@ -14,16 +14,5 @@ This project is a simple newsfeed application consisting of a backend service im
 ## Technology Stack
 - **Backend**: Python, Flask
 - **Database**: MySQL
-- **API Testing**: Postman (for manually testing the API endpoints)
+- **API Testing**: Postman -->  https://documenter.getpostman.com/view/21221217/2s9YeK3VJT
 
-## Getting Started
-
-### Prerequisites
-- Python 3.x
-- MySQL Server
-- Postman (for API testing)
-
-### Installation and Setup
-1. **Clone the Repository**
-   ```bash
-   git clone [repository-url]
